@@ -1,0 +1,15 @@
+.squareTo {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+.squareFrom {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.squareFromTo {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
