@@ -1,0 +1,14 @@
+.fullscreen{
+    height: 100vh;
+    background-color: lightgray;
+}
+.squareOne {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+.squareTwo {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
