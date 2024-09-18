@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-text {
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+p {
+    margin-bottom: 1em;
+}
+
+.fullscreen {
+    min-height: 100vh;
+    background-color: orange;
+}
+
+.arrow1 {
+    float: left;
+    margin-right: 10px;
+}
+.arrow2 {
+    float: right;
+    margin-left: 10px;
+}
+
